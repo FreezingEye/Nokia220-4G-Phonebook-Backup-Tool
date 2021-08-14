@@ -1,0 +1,2 @@
+python nfs.py
+pause
